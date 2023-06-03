@@ -641,8 +641,8 @@ plt.show()
 ```
 
 
-    
-![png](output_76_0.png)
+    ![output_76_0](https://github.com/aminehammouda/TP-4/assets/86841843/c5be6ff0-f8b2-4d8a-8296-063dc7181755)
+
     
 
 
