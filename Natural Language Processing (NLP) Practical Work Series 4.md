@@ -521,7 +521,8 @@ plt.show()
 
 
     
-![png](output_66_0.png)
+![output_66_0](https://github.com/aminehammouda/TP-4/assets/86841843/debec4f4-7859-48dc-a34d-ca73b8900150)
+
     
 
 
